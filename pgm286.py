@@ -9,4 +9,4 @@ while(n!=0):
       n=int(input('n=?'))
      t=f.readline()
      x+=1
-f.close()
+f.close() 

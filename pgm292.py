@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 28 16:19:56 2022
-
-@author: tt
-"""
-
+# print the line that derivess the highest no.of characters file in the dictionary
 f=open('pgm282.py','r')
 d={}
 i=0

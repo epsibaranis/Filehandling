@@ -1,5 +1,4 @@
 # print the file in the dictionary  along with the line number, no of words, no of characters and the text
-
 f=open('pgm282.py','r')
 d={}
 i=0
